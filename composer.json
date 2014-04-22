@@ -4,7 +4,9 @@
     "keywords": [
         "Pi",
         "module",
-        "saml"
+        "saml",
+        "sso",
+        "simplesamlphp"
     ],
     "homepage": "http://pialog.org",
     "license": "BSD-3-Clause",
